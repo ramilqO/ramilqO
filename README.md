@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ramilqO
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning HTML, CSS, JavaScript, React.js and other
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning React.js
 - 📫 How to reach me: VK: https://vk.com/rosssmanov or Gmail: osmanovramil823@gmail.com
 
 <!---
