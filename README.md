@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ramilqO
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning TypeScript, firestore
+- 🌱 I’m currently learning databases and Next.js
 - 📫 How to reach me: VK: https://vk.com/rosssmanov or Gmail: osmanovramil823@gmail.com
 
 <!---
