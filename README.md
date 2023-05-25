@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @ramilqO
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning databases and Next.js
-- 📫 How to reach me: VK: https://vk.com/rosssmanov or Gmail: osmanovramil823@gmail.com
-
-<!---
-ramilqO/ramilqO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1 align="center">Hi there, I'm <a href="https://vk.com/rosssmanov" target="_blank">Ramil</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Frontend developer 🇷🇺</h3>
