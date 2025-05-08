@@ -46,4 +46,4 @@
 
 ### 📬 Контакты
 
-[Telegram](https://t.me/your_username) • [Email](mailto:your@email.com)
+[Telegram](https://t.me/rossmanov) • [Email](mailto:osmanovramil823@gmail.com)
